@@ -85,6 +85,9 @@ Working Flow:
 
 Farmer → Product Listing → Digital Marketplace → Consumer / Bulk Buyer → Order Placement → Logistics → Delivery.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/164a0ae7-ee73-4be8-963a-a944e0575468" />
+
+
 ## Feasibility and Viability
 Feasibility:
 
